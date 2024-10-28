@@ -1,0 +1,23 @@
+.container{
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top:100px;
+}
+
+.title {
+    padding-bottom: 30px;
+    font-size: 3em;
+}
+
+.form{
+    padding: 15px;
+    font-size: 1.5em;
+    margin: 10px;
+}
+
+.resultado{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
